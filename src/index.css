@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  font-family: 'Avenir Next';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  color: #263238;
+}
+
+p, li {
+  color: #263238;
+}
+
+a {
+  font-family: 'Avenir Next';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  color: #00B0FF;
+  text-decoration: none !important;
+}
+
+a:hover {
+  color: #00B0FF !important;
+}
+
+.gm-ui-hover-effect{
+  display: none !important;
+}
